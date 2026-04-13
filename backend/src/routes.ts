@@ -9,3 +9,4 @@ import type { FastifyInstance } from "fastify";
 export function setupRoutes(server: FastifyInstance) {
 
 }
+
